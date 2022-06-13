@@ -15,7 +15,7 @@ export default function Slider(){
             />
             <Carousel.Caption>
               <h2>BLUE JEANS</h2>
-              <span>New Colliction 2021</span>
+              <span>New Collection 2021</span>
               <a href="#">SHOP NOW</a>
             </Carousel.Caption>
           </Carousel.Item>
@@ -27,7 +27,7 @@ export default function Slider(){
             />
 
             <Carousel.Caption>
-              <h2>WOMEN COLLECTION</h2>
+              <h2>Women Collection</h2>
               <span>New ARIVALS 2021</span>
               <a href="#">ENJOY NOW</a>
             </Carousel.Caption>
@@ -41,7 +41,7 @@ export default function Slider(){
 
             <Carousel.Caption>
               <h2>LEATHER BAGS</h2>
-              <span>New Colliction 2021</span>
+              <span>New Collection 2021</span>
               <a href="#">SHOP NOW</a>
             </Carousel.Caption>
           </Carousel.Item>
