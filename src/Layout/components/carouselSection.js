@@ -27,8 +27,8 @@ export default function Slider(){
             />
 
             <Carousel.Caption>
-              <h2>Women Collection</h2>
-              <span>New ARIVALS 2021</span>
+              <h2>Women Collection 2021</h2>
+              <span>NEW ARIVALS</span>
               <a href="#">ENJOY NOW</a>
             </Carousel.Caption>
           </Carousel.Item>
